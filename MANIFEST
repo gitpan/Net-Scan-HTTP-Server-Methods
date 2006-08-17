@@ -1,0 +1,7 @@
+Changes
+Copying
+Makefile.PL
+MANIFEST
+README
+t/Methods.t
+lib/Net/Scan/HTTP/Server/Methods.pm
